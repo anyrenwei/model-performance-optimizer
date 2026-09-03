@@ -1,0 +1,4 @@
+interface:
+  display_name: "Model Performance Optimizer"
+  short_description: "Evidence-driven model performance optimization"
+  default_prompt: "Use $model-performance-optimizer to optimize this model with correctness gates and attributable benchmarks."
